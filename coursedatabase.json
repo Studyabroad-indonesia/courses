@@ -1,14 +1,10 @@
 [
-  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/CIBT-logo.png","name": "Crown Institute of Business and Technology","program": "Advanced Diploma of Accounting","type": "Advanceddiploma","state": "act","duration": "78 Weeks","url": "https://www.cibt.edu.au/program/advanced-diploma-of-accounting-2/"},
-  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/Tred-College.png","name": "Canberra Institute of Technology","program": "Advanced Diploma of Applied Blockchain","type": "Advanceddiploma","state": "act","duration": "52 Weeks","url": "https://www.tredcollege.edu.au/courses/11241nat-advanced-diploma-of-applied-blockchain/"},
-  
-  
-  
-  
-  
-  
-  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/westminster.png","name": "Westminster College","program": "Advanced Diploma of Accounting","type": "Advanceddiploma","state": "nsw","duration": "52 Weeks","url": "https://cricos.education.gov.au/Course/CourseDetailsOnePage.aspx?CourseID=97304&amp;LocationID=0"}
+  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/CIBT-logo.png","name": "Crown Institute of Business and Technology","program": "Advanced Diploma of Accounting","duration": "78 Weeks","price": {"idr": "IDR 199.971.040","usd": "AUD 18,550 "},"url": "https://www.cibt.edu.au/program/advanced-diploma-of-accounting-2/","state": "act","type": "Advanceddiploma"},
+  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/Tred-College.png","name": "TrEd College","program": "Advanced Diploma of Applied Blockchain","duration": "52 Weeks","price": {"idr": "IDR 175.715.793","usd": "AUD 16,300 "},"url": "https://www.tredcollege.edu.au/courses/11241nat-advanced-diploma-of-applied-blockchain/","state": "act","type": "Advanceddiploma"},
+  {"logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/westminster.png","name": "Westminster College","program": "Advanced Diploma of Applied Blockchain","duration": "52 Weeks","price": {"idr": "IDR 120.413.828","usd": "AUD 11,170 "},"url": "https://cricos.education.gov.au/Course/CourseDetailsOnePage.aspx?CourseID=97304&amp;LocationID=0","state": "act","type": "Advanceddiploma"},
 
 
+
+  
   
 ]
