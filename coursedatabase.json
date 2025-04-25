@@ -4,7 +4,24 @@
     "name": "Crown Institute of Business and Technology",
     "programs": [
       {"program": "Advanced Diploma of Accounting","type": "Advanced Diploma","state": "act","duration": "78 Weeks","price": "AUD 18,550","url": "https://www.cibt.edu.au/program/advanced-diploma-of-accounting-2/"},
-      {"program": "Diploma of Accounting","type": "Diploma","state": "act","duration": "65 Weeks","price": "AUD 15,500 ","url": "https://www.cibt.edu.au/program/diploma-of-accounting/"}
+      {"program": "Diploma of Accounting","type": "Diploma","state": "act","duration": "65 Weeks","price": "AUD 15,500 ","url": "https://www.cibt.edu.au/program/diploma-of-accounting/"},
+      {"program": "Certificate IV in Accounting and Bookkeeping", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-accounting-and-bookkeeping/"},
+      {"program": "Diploma of Community Services","type": "Diploma","state": "nsw","duration": "104 Weeks","price": "AUD 15,000","url": "https://www.cibt.edu.au/program/diploma-of-community-services/"},
+      {"program": "Certificate III in Individual Support","type": "Certificate III","state": "nsw","duration": "52 Weeks","price": "AUD 8,000","url": "https://www.cibt.edu.au/program/certificate-iii-in-individual-support/"},
+      {"program": "Diploma of Early Childhood Education and Care", "type": "Diploma", "state": "nsw", "duration": "78 Weeks", "price": "AUD 17,000", "url": "https://www.cibt.edu.au/program/diploma-of-early-childhood-education-and-care-sydney/"},
+      {"program": "Certificate III in Early Childhood Education and Care", "type": "Certificate III", "state": "nsw", "duration": "52 Weeks", "price": "AUD 12,000", "url": "https://www.cibt.edu.au/program/certificate-iii-in-early-childhood-education-and-care/"},
+      {"program": "Graduate Diploma of Management (Learning)", "type": "Graduate Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 18,000", "url": "https://www.cibt.edu.au/program/graduate-diploma-of-management-learning/"},
+      {"program": "Diploma of Hospitality Management", "type": "Diploma", "state": "nsw", "duration": "26 Weeks", "price": "AUD 9,500", "url": "https://www.cibt.edu.au/program/diploma-of-hospitality-management/"},
+      {"program": "Certificate IV in Kitchen Management", "type": "Certificate IV", "state": "nsw", "duration": "78 Weeks", "price": "AUD 14,000", "url": "https://www.cibt.edu.au/program/certificate-iv-in-kitchen-management/"},
+      {"program": "Diploma of Information Technology", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-information-technology/"},
+      {"program": "Advanced Diploma of Information Technology", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-information-technology/"},
+      {"program": "Advanced Diploma of Leadership and Management", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-leadership-and-management/"},
+      {"program": "Diploma of Leadership and Management", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-leadership-and-management/"},
+      {"program": "Certificate IV in Leadership and Management", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 12,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-leadership-and-management/"},
+      {"program": "Advanced Diploma of Marketing and Communication", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-marketing-and-communication/"},
+      {"program": "Diploma of Marketing and Communication", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-marketing-and-communication/"},
+      {"program": "Certificate IV in Marketing and Communication", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 12,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-marketing-and-communication/"},
+      {"program": "Diploma of Project Management","type": "Diploma","state": "act","duration": "50 Weeks","price": "AUD 15,500","url": "https://www.cibt.edu.au/program/diploma-of-project-management/"}
       
     ]
   },
