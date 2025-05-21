@@ -26,10 +26,31 @@
     ]
   },
   {
-    "logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/Tred-College.png",
-    "name": "TrEd College",
+    "logo": "https://brightannica.co.id/wp-content/uploads/2025/05/ACBI.png",
+    "name": "ACBI (Australian College of Business Intelligence)",
     "programs": [
-      {"program": "Advanced Diploma of Applied Blockchain","type": "Advanced Diploma","state": "nsw","duration": "52 Weeks","price": "AUD 16,300","url": "https://www.tredcollege.edu.au/courses/11241nat-advanced-diploma-of-applied-blockchain/"}
+      {"program": "Certificate IV in Health Administration", "type": "Certificate IV", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,600 / Term", "url": "https://www.acbi.edu.au/courses/health-administration/"},
+      {"program": "Diploma of Project Management", "type": "Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/bsb50820-diploma-of-project-management/"},
+      {"program": "Advanced Diploma of Program Management", "type": "Advanced Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/bsb60720-advanced-diploma-of-program-management/"},
+      {"program": "Diploma of Leadership & Management", "type": "Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/bsb50420-diploma-of-leadership-and-management/"},
+      {"program": "Advanced Diploma of Leadership & Management", "type": "Advanced Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/bsb60420-advanced-diploma-of-leadership-and-management-2/"},
+      {"program": "Graduate Diploma of Strategic Leadership", "type": "Graduate Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 2,000 / Term", "url": "https://www.acbi.edu.au/courses/management/bsb80320-graduate-diploma-of-strategic-leadership/"},
+      {"program": "Certificate IV in Environmentally Sustainable Management", "type": "Certificate IV", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/certificate-iv-environmentally-sustainable-management/"},
+      {"program": "Diploma of Sustainable Operations", "type": "Diploma", "state": "nsw", "duration": "78 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/mss50122-diploma-of-sustainable-operations/"},
+      {"program": "Diploma of Artificial Intelligence", "type": "Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/11287nat-diploma-of-artificial-intelligence/"},
+      {"program": "Certificate IV in Social Media and Digital Marketing", "type": "Certificate IV", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,600 / Term", "url": "https://www.acbi.edu.au/11302nat-certificate-iv-in-social-media-and-digital-marketing/"},
+      {"program": "Diploma of Digital Marketing", "type": "Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/10931nat-diploma-of-digital-marketing-1/"},
+      {"program": "Advanced Diploma of Digital Marketing", "type": "Advanced Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/courses/digital-marketing/11266nat-advanced-diploma-of-digital-marketing/"},
+      {"program": "Certificate IV in Design", "type": "Certificate IV", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/cua40720-certificate-iv-in-design/"},
+      {"program": "Diploma of Graphic Design", "type": "Diploma", "state": "nsw", "duration": "78 Weeks", "price": "AUD 2,100 / Term", "url": "https://www.acbi.edu.au/cua50720-diploma-of-graphic-design/"},
+      {"program": "Advanced Diploma of Graphic Design", "type": "Advanced Diploma", "state": "nsw", "duration": "52 Weeks", "price": "AUD 2,100 / Term", "url": "https://www.acbi.edu.au/cua60320-advanced-diploma-of-graphic-design/"},
+      {"program": "Certificate IV in Information Technology", "type": "Certificate IV", "state": "nsw", "duration": "52 Weeks", "price": "AUD 1,600 / Term", "url": "https://www.acbi.edu.au/ict40120-certificate-iv-in-information-technology/"},
+      {"program": "Diploma of Information Technology (Front End Web Development)", "type": "Diploma", "state": "nsw", "duration": "78 Weeks", "price": "AUD 1,700 / Term", "url": "https://www.acbi.edu.au/ict50220-diploma-of-it-website-development/"},
+      {"program": "Advanced Diploma of Information Technology", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-management/"},
+      {"program": "Advanced Diploma of Information Technology (Cyber Security)", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-cyber-security/"},
+      {"program": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-telecommunications-network-engineering/"}
+
+      
     ]
   }
 ]
