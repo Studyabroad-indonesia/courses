@@ -62,8 +62,13 @@
       {"program": "Diploma of Hospitality Management – Patisserie Stream", "type": "Diploma", "state": "vic", "duration": "2 years", "price": "AUD 4,200 per 6 months", "url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management"},
       {"program": "Certificate IV in Kitchen Management", "type": "Certificate IV", "state": "vic", "duration": "1.5 years", "price": "AUD 4,200 per 6 months", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-kitchen-management"},
       {"program": "Certificate III in Patisserie", "type": "Certificate III", "state": "vic", "duration": "1 year", "price": "AUD 10,450 tuition + AUD 500 materials + AUD 200 enrolment", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-patisserie"},
-      {"program": "Certificate III in Commercial Cookery", "type": "Certificate III", "state": "vic", "duration": "1 year", "price": "AUD 10,000 tuition + AUD 500 materials + AUD 200 enrolment", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-commercial-cookery"}
-
+      {"program": "Certificate III in Commercial Cookery", "type": "Certificate III", "state": "vic", "duration": "1 year", "price": "AUD 10,000 tuition + AUD 500 materials + AUD 200 enrolment", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-commercial-cookery"},
+      {"program": "Diploma of Hospitality Management – Commercial Cookery","type":"Diploma","state":"vic","duration":"2 years","price":"AUD 4,200 / 6 months","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management-commercial-cookery"},
+      {"program": "Diploma of Community Services","type":"Diploma","state":"vic","duration":"1 year","price":"Please refer to 2025 International Student Fees","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-community-services-1-year"},
+      {"program": "Diploma of Nursing","type":"Diploma","state":"vic","duration":"18 months","price":"Please refer to 2025 International Student Fees","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-nursing"},
+      {"program": "Diploma of Civil Construction Design","type":"Diploma","state":"vic","duration":"1.5 years","price":"AUD 18,300 total","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-civil-construction-design"},
+      {"program": "Advanced Diploma of Civil Construction Design","type":"Advanced Diploma","state":"vic","duration":"2 years","price":"AUD 24,000 total","url":"https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-civil-construction-design"},
+      {"program": "Certificate IV in Patisserie","type":"Certificate IV","state":"vic","duration":"6 months","price":"AUD 4,725 total","url":"https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-patisserie"}
     
     ]
   }
