@@ -68,8 +68,14 @@
       {"program": "Diploma of Nursing","type":"Diploma","state":"vic","duration":"18 months","price":"Please refer to 2025 International Student Fees","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-nursing"},
       {"program": "Diploma of Civil Construction Design","type":"Diploma","state":"vic","duration":"1.5 years","price":"AUD 18,300 total","url":"https://www.acknowledgeeducation.edu.au/courses/diploma-of-civil-construction-design"},
       {"program": "Advanced Diploma of Civil Construction Design","type":"Advanced Diploma","state":"vic","duration":"2 years","price":"AUD 24,000 total","url":"https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-civil-construction-design"},
-      {"program": "Certificate IV in Patisserie","type":"Certificate IV","state":"vic","duration":"6 months","price":"AUD 4,725 total","url":"https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-patisserie"}
-    
+      {"program": "Certificate IV in Patisserie","type":"Certificate IV","state":"vic","duration":"6 months","price":"AUD 4,725 total","url":"https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-patisserie"},
+      {"program":"Master of Counselling","type":"Master","state":"wa","duration":"2 years","price":"AUD 3,090 per unit; Administration Fee AUD 200","url":"https://www.acknowledgeeducation.edu.au/courses/master-of-counselling"},
+      {"program":"Bachelor of Community Services","type":"Bachelor","state":"vic","duration":"3 years","price":"AUD 2,475 per unit; Administration Fee AUD 250","url":"https://www.acknowledgeeducation.edu.au/courses/bachelor-of-community-services"},
+      {"program":"Bachelor of Tourism and Hospitality Management","type":"Bachelor","state":"vic","duration":"3 years","price":"AUD 2,250 per unit; Administration Fee AUD 200","url":"https://www.acknowledgeeducation.edu.au/courses/bachelor-of-tourism-and-hospitality-management"},
+      {"program":"Bachelor of Social Work","type":"Bachelor","state":"vic","duration":"4 years","price":"Not available for international students","url":"https://www.acknowledgeeducation.edu.au/courses/bachelor-of-social-work"},
+      {"program":"Bachelor of Construction Project Management","type":"Bachelor","state":"vic","duration":"3 years","price":"AUD 2,550 per unit; Administration Fee AUD 200","url":"https://www.acknowledgeeducation.edu.au/courses/bachelor-of-construction-project-management"},
+      {"program":"Graduate Certificate of Health and Community","type":"Graduate Certificate","state":"vic","duration":"14 weeks","price":"AUD 3,075 per unit; Administration Fee AUD 250","url":"https://www.acknowledgeeducation.edu.au/courses/graduate-certificate-of-health-and-community"}
+      
     ]
   }
 ]
