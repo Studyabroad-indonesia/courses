@@ -52,5 +52,19 @@
 
       
     ]
+  },
+  {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2025/06/Acknowledge-education-logo.png",
+    "name": "Acknowledge Education",
+    "programs": [
+      {"program": "Graduate Diploma of Early Childhood Education", "type": "Graduate Diploma", "state": "vic, nsw, wa, qld, sa", "duration": "1 year", "price": "AUD 25,200 (on-campus) / AUD 21,500 (online)", "url": "https://www.acknowledgeeducation.edu.au/courses/graduate-diploma-of-early-childhood-education"},
+      {"program": "Advanced Diploma of Hospitality Management", "type": "Advanced Diploma", "state": "vic", "duration": "2.5 years", "price": "AUD 22,600 total tuition + AUD 900 materials", "url": "https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-hospitality-management"},
+      {"program": "Diploma of Hospitality Management – Patisserie Stream", "type": "Diploma", "state": "vic", "duration": "2 years", "price": "AUD 4,200 per 6 months", "url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management"},
+      {"program": "Certificate IV in Kitchen Management", "type": "Certificate IV", "state": "vic", "duration": "1.5 years", "price": "AUD 4,200 per 6 months", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-kitchen-management"},
+      {"program": "Certificate III in Patisserie", "type": "Certificate III", "state": "vic", "duration": "1 year", "price": "AUD 10,450 tuition + AUD 500 materials + AUD 200 enrolment", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-patisserie"},
+      {"program": "Certificate III in Commercial Cookery", "type": "Certificate III", "state": "vic", "duration": "1 year", "price": "AUD 10,000 tuition + AUD 500 materials + AUD 200 enrolment", "url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-commercial-cookery"}
+
+    
+    ]
   }
 ]
