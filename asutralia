@@ -1,99 +1,40 @@
 {
     "melbourne": [
-        {
-            "logo": "https://example.com/logos/mit.png",
-            "institution": "Melbourne Institute of Technology",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8500,
-            "programLink": "https://example.com/courses/it-cert4"
-        },
-        {
-            "logo": "https://example.com/logos/rmit.png",
-            "institution": "RMIT University",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "18 months",
-            "price": 9200,
-            "programLink": "https://example.com/courses/it-cert4-rmit"
-        }
+       
     ],
     "sydney": [
         {
-            "logo": "https://example.com/logos/usyd.png",
-            "institution": "University of Sydney",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8800,
-            "programLink": "https://example.com/courses/it-cert4-usyd"
+            "logo": "https://brightannica.co.id/wp-content/uploads/2025/08/IT-1.png","institution": "ACBI - Australian College of Business Intelligence","program": "Certificate IV","course": "Certificate IV in Information Technology","duration": "52 weeks","price": AUD 1600,"programLink": "https://brightannica.co.id/acbi-certificate-iv-in-information-technology/"
         }
     ],
     "brisbane": [
         {
-            "logo": "https://example.com/logos/qut.png",
-            "institution": "Queensland University of Technology",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "15 months",
-            "price": 8200,
-            "programLink": "https://example.com/courses/it-cert4-qut"
+            
         }
     ],
     "adelaide": [
         {
-            "logo": "https://example.com/logos/uni-adelaide.png",
-            "institution": "University of Adelaide",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8700,
-            "programLink": "https://example.com/courses/it-cert4-adelaide"
+            
         }
     ],
     "perth": [
         {
-            "logo": "https://example.com/logos/curtin.png",
-            "institution": "Curtin University",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8600,
-            "programLink": "https://example.com/courses/it-cert4-curtin"
+            
         }
     ],
     "gold-coast": [
         {
-            "logo": "https://example.com/logos/griffith.png",
-            "institution": "Griffith University",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8400,
-            "programLink": "https://example.com/courses/it-cert4-griffith"
+            
         }
     ],
     "canberra": [
         {
-            "logo": "https://example.com/logos/anu.png",
-            "institution": "Australian National University",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8900,
-            "programLink": "https://example.com/courses/it-cert4-anu"
+            
         }
     ],
     "hobart": [
         {
-            "logo": "https://example.com/logos/utas.png",
-            "institution": "University of Tasmania",
-            "program": "Certificate IV",
-            "course": "Information Technology",
-            "duration": "12 months",
-            "price": 8300,
-            "programLink": "https://example.com/courses/it-cert4-utas"
+            
         }
     ]
 }
