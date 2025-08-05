@@ -3,9 +3,7 @@
        
     ],
     "sydney": [
-        {
-            "logo": "https://brightannica.co.id/wp-content/uploads/2025/08/IT-1.png","institution": "ACBI - Australian College of Business Intelligence","program": "Certificate IV","course": "Certificate IV in Information Technology","duration": "52 weeks","price": AUD 1600,"programLink": "https://brightannica.co.id/acbi-certificate-iv-in-information-technology/"
-        }
+        {"logo": "https://brightannica.co.id/wp-content/uploads/2025/08/IT-1.png","institution": "ACBI - Australian College of Business Intelligence","program": "Certificate IV","course": "Certificate IV in Information Technology","duration": "52 weeks","price": "AUD 1600","programLink": "https://brightannica.co.id/acbi-certificate-iv-in-information-technology/"}
     ],
     "brisbane": [
         {
