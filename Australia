@@ -2,7 +2,9 @@
     "melbourne": [
     ],
     "sydney": [
-        {"logo": "https://brightannica.co.id/wp-content/uploads/2025/08/ACBI-logo.png","institution": "ACBI - Australian College of Business Intelligence","program": "Certificate IV","course": "Certificate IV in Information Technology","duration": "52 weeks","price": "AUD 1600","programLink": "https://brightannica.co.id/acbi-certificate-iv-in-information-technology/"}
+        {"logo": "https://brightannica.co.id/wp-content/uploads/2025/08/ACBI-logo.png","institution": "ACBI - Australian College of Business Intelligence","program": "Certificate IV","course": "Certificate IV in Information Technology","duration": "52 weeks (4 Terms) ","price": "AUD 1600 / Terms","programLink": "https://brightannica.co.id/acbi-certificate-iv-in-information-technology/"},
+        {"logo": "https://brightannica.co.id/wp-content/uploads/2025/08/ACBI-logo.png","institution": "ACBI - Australian College of Business Intelligence","program": "Diploma","course": "Diploma of Information Technology (Front End Web Development)","duration": "78 weeks","price": "AUD 1700","programLink": "https://brightannica.co.id/acbi-diploma-of-information-technology/"}
+
     ],
     "brisbane": [
     ],
