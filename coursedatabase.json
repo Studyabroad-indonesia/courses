@@ -104,6 +104,20 @@
 
       
     ]
+  },
+  {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/le-culinaire-australia.png",
+    "name": "Le Culinaire Australia",
+    "programs": [
+      {"program": "SIT30821 Certificate III in Commercial Cookery", "type": "Certificate III", "state": "NSW", "duration": "52 Weeks", "price": "AUD 10,800 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
+      {"program": "SIT40521 Certificate IV in Kitchen Management", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 16,200 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
+      {"program": "SIT31021 Certificate III in Patisserie", "type": "Certificate III", "state": "NSW", "duration": "52 Weeks", "price": "AUD 11,800 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
+      {"program": "SIT40721 Certificate IV in Patisserie", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 17,700 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
+      {"program": "SIT50422 Diploma of Hospitality Management", "type": "Diploma", "state": "NSW", "duration": "80 Weeks", "price": "AUD 14,000 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
+      {"program": "SIT60322 Advanced Diploma of Hospitality Management", "type": "Advanced Diploma", "state": "NSW", "duration": "90 Weeks", "price": "AUD 15,750 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"}
+
+      
+    ]
   }
   
   
