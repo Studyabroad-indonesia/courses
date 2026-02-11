@@ -127,7 +127,7 @@
    {
     "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/Greenwich-college-logo.png",
     "name": "Greenwich College",
-    "programs": 
+    "programs": [
       {"program": "Certificate IV in Business - BSB40120", "type": "Certificate IV", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "44 Weeks", "price": "AUD 6,250", "url": "https://www.greenwichcollege.edu.au/management-courses/certificate-iv-in-business", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","July","September","October"]},
       {"program": "Certificate IV in Leadership & Management - BSB40520", "type": "Certificate IV", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "44 Weeks", "price": "AUD 6,250", "url": "https://www.greenwichcollege.edu.au/management-courses/certificate-4-iv-leadership-management", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","July","September","October"]},
       {"program": "Certificate IV in Project Management Practice - BSB40920", "type": "Certificate IV", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "40–44 Weeks", "price": "AUD 6,250", "url": "https://www.greenwichcollege.edu.au/management-courses/certificate-4-iv-project-management-practice", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","July","September","October"]},
