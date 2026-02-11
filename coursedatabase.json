@@ -110,6 +110,21 @@
     ]
   },
   {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/eve-college.png",
+    "name": "Eve College Australia",
+    "programs": [
+      {"program": "Diploma of Leadership and Management - BSB50420", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
+      {"program": "Diploma of Business - BSB50120", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
+      {"program": "Certificate IV in Entrepreneurship and New Business - BSB40320", "type": "Certificate IV", "state": "NSW", "duration": "52 Weeks", "price": "AUD 10,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","February","March","June","July","August","September","October","November"]},
+      {"program": "Diploma of Human Resource Management - BSB50320", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
+      {"program": "Certificate IV in Human Resource Management - BSB40420", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 15,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
+      {"program": "Graduate Diploma of Management (Learning) - BSB80120", "type": "Graduate Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
+      {"program": "Advanced Diploma of Leadership and Management - BSB60420", "type": "Advanced Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","February","March","June","July","August","September","October","November"]}
+
+      
+    ]
+  },
+  {
     "logo": "https://brightannica.co.id/wp-content/uploads/2025/05/ACBI.png",
     "name": "ACBI (Australian College of Business Intelligence)",
     "programs": [
@@ -169,32 +184,6 @@
     ]
   },
   {
-    "logo": "https://studyabroad.co.id/wp-content/uploads/2025/04/CIBT-logo.png",
-    "name": "Crown Institute of Business and Technology",
-    "programs": [
-      {"program": "Advanced Diploma of Accounting","type": "Advanced Diploma","state": "act","duration": "78 Weeks","price": "AUD 18,550","url": "https://www.cibt.edu.au/program/advanced-diploma-of-accounting-2/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Accounting","type": "Diploma","state": "act","duration": "65 Weeks","price": "AUD 15,500 ","url": "https://www.cibt.edu.au/program/diploma-of-accounting/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate IV in Accounting and Bookkeeping", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-accounting-and-bookkeeping/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Community Services","type": "Diploma","state": "nsw","duration": "104 Weeks","price": "AUD 15,000","url": "https://www.cibt.edu.au/program/diploma-of-community-services/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate III in Individual Support","type": "Certificate III","state": "nsw","duration": "52 Weeks","price": "AUD 8,000","url": "https://www.cibt.edu.au/program/certificate-iii-in-individual-support/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Early Childhood Education and Care", "type": "Diploma", "state": "nsw", "duration": "78 Weeks", "price": "AUD 17,000", "url": "https://www.cibt.edu.au/program/diploma-of-early-childhood-education-and-care-sydney/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate III in Early Childhood Education and Care", "type": "Certificate III", "state": "nsw", "duration": "52 Weeks", "price": "AUD 12,000", "url": "https://www.cibt.edu.au/program/certificate-iii-in-early-childhood-education-and-care/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Graduate Diploma of Management (Learning)", "type": "Graduate Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 18,000", "url": "https://www.cibt.edu.au/program/graduate-diploma-of-management-learning/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Hospitality Management", "type": "Diploma", "state": "nsw", "duration": "26 Weeks", "price": "AUD 9,500", "url": "https://www.cibt.edu.au/program/diploma-of-hospitality-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate IV in Kitchen Management", "type": "Certificate IV", "state": "nsw", "duration": "78 Weeks", "price": "AUD 14,000", "url": "https://www.cibt.edu.au/program/certificate-iv-in-kitchen-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Information Technology", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-information-technology/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Advanced Diploma of Information Technology", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-information-technology/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Advanced Diploma of Leadership and Management", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-leadership-and-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Leadership and Management", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-leadership-and-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate IV in Leadership and Management", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 12,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-leadership-and-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Advanced Diploma of Marketing and Communication", "type": "Advanced Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 16,500", "url": "https://www.cibt.edu.au/program/advanced-diploma-of-marketing-and-communication/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Marketing and Communication", "type": "Diploma", "state": "act", "duration": "78 Weeks", "price": "AUD 15,500", "url": "https://www.cibt.edu.au/program/diploma-of-marketing-and-communication/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Certificate IV in Marketing and Communication", "type": "Certificate IV", "state": "act", "duration": "52 Weeks", "price": "AUD 12,500", "url": "https://www.cibt.edu.au/program/certificate-iv-in-marketing-and-communication/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"},
-      {"program": "Diploma of Project Management","type": "Diploma","state": "act","duration": "50 Weeks","price": "AUD 15,500","url": "https://www.cibt.edu.au/program/diploma-of-project-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"}
-      
-    ]
-  },
-  {
     "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/le-culinaire-australia.png",
     "name": "Le Culinaire Australia",
     "programs": [
@@ -229,21 +218,6 @@
       {"program": "Master of Teaching (Early Childhood)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 51,808", "url": "https://ikon.edu.au/course/master-of-teaching-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
       {"program": "Bachelor of Social Work", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "4 Years", "price": "AUD 101,200", "url": "https://ikon.edu.au/course/bachelor-of-social-work/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
       {"program": "Master of Social Work (Qualifying)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 58,704", "url": "https://ikon.edu.au/course/master-of-social-work-qualifying/", "applicationForm": "https://ikon.edu.au/how-to-apply/"}
-
-      
-    ]
-  },
-  {
-    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/eve-college.png",
-    "name": "Eve College Australia",
-    "programs": [
-      {"program": "Diploma of Leadership and Management - BSB50420", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Diploma of Business - BSB50120", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Certificate IV in Entrepreneurship and New Business - BSB40320", "type": "Certificate IV", "state": "NSW", "duration": "52 Weeks", "price": "AUD 10,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Diploma of Human Resource Management - BSB50320", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Certificate IV in Human Resource Management - BSB40420", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 15,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Graduate Diploma of Management (Learning) - BSB80120", "type": "Graduate Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
-      {"program": "Advanced Diploma of Leadership and Management - BSB60420", "type": "Advanced Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"}
 
       
     ]
