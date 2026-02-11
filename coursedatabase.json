@@ -150,6 +150,19 @@
 ]
   },
   {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/Greenwich-higher-education-logo.png",
+    "name": "Greenwich Higher Education",
+    "programs": [
+      {"program":"Bachelor of 3D Animation","type":"Bachelor (AQF Level 7)","state":"Sydney, Melbourne","duration":"3 years full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/bachelor-of-3d-animation/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
+      {"program":"Bachelor of Information Technology","type":"Bachelor (AQF Level 7)","state":"Sydney, Melbourne","duration":"3 years full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/bachelor-of-it/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
+      {"program":"Bachelor of Game Design","type":"Bachelor (AQF Level 7)","state":"Sydney, Melbourne","duration":"3 years full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/bachelor-of-game-design/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
+      {"program":"Diploma of Game Design","type":"Diploma (VET)","state":"Sydney, Melbourne","duration":"1 year full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/diploma-of-game-design-australia/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
+      {"program":"Diploma of 3D Animation","type":"Diploma (VET)","state":"Sydney, Melbourne","duration":"1 year full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/diploma-of-3d-animation/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]}
+
+      
+    ]
+  },
+  {
     "logo": "https://brightannica.co.id/wp-content/uploads/2025/05/ACBI.png",
     "name": "ACBI (Australian College of Business Intelligence)",
     "programs": [
