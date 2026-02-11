@@ -83,7 +83,29 @@
       {"program": "Diploma of Project Management","type": "Diploma","state": "act","duration": "50 Weeks","price": "AUD 15,500","url": "https://www.cibt.edu.au/program/diploma-of-project-management/", "applicationForm": "https://drive.google.com/file/d/1Mhohb3YbxMI33wRTNP-WWIRNPeXHtxPN/view?usp=sharing"}
       
     ]
+  },
+{
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/ALG.png",
+    "name": "Australian Learning Group",
+    "programs": [
+      {"program": "11149NAT Certificate IV in Yoga Teaching", "type": "Certificate IV", "state": "BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 9,996", "url": "https://alg.edu.au/course/certificate-iv-in-yoga-teaching/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "SIS30321 – 11149NAT Certificate III in Fitness + Certificate IV in Yoga Teaching", "type": "Combined Qualification", "state": "BNE, MEL, SYD", "duration": "104 Weeks", "price": "AUD 19,992", "url": "https://alg.edu.au/course/nat-certificate-iii-in-fitness-certificate-iv-in-yoga-teaching/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "11150NAT Diploma of Yoga Teaching", "type": "Diploma", "state": "MEL, SYD", "duration": "52 Weeks", "price": "AUD 9,996", "url": "https://alg.edu.au/course/diploma-of-yoga-teaching/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC30121 Certificate III in Early Childhood Education and Care", "type": "Certificate III", "state": "ADE, BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 11,700", "url": "https://alg.edu.au/course/certificate-iii-in-early-childhood-education-and-care/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC50121 Diploma of Early Childhood Education and Care", "type": "Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 11,700", "url": "https://alg.edu.au/course/diploma-of-early-childhood-education-and-care/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC33021 Certificate III in Individual Support (Ageing)", "type": "Certificate III", "state": "ADE, BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 11,700", "url": "https://alg.edu.au/course/certificate-iii-in-individual-support-ageing/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC43015 Certificate IV in Ageing Support", "type": "Certificate IV", "state": "ADE, BNE, MEL, SYD", "duration": "26 Weeks", "price": "AUD 5,850", "url": "https://alg.edu.au/course/certificate-iv-in-ageing-support/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "SIS30321 Certificate III in Fitness", "type": "Certificate III", "state": "BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 9,996", "url": "https://alg.edu.au/course/certificate-iii-in-fitness/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "SIS40221 Certificate IV in Fitness", "type": "Certificate IV", "state": "BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 9,996", "url": "https://alg.edu.au/course/certificate-iv-in-fitness/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC42021 Certificate IV in Community Services", "type": "Certificate IV", "state": "BNE, MEL, SYD", "duration": "52 Weeks", "price": "AUD 11,700", "url": "https://alg.edu.au/course/certificate-iv-in-community-services/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC52021 Diploma of Community Services", "type": "Diploma", "state": "BNE, MEL, SYD", "duration": "104 Weeks", "price": "AUD 23,400", "url": "https://alg.edu.au/course/diploma-of-community-services/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC51015 Diploma of Counselling", "type": "Diploma", "state": "MEL, SYD", "duration": "78 Weeks", "price": "AUD 17,550", "url": "https://alg.edu.au/course/diploma-of-counselling/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"},
+      {"program": "CHC53315 Diploma of Mental Health", "type": "Diploma", "state": "MEL, SYD", "duration": "104 Weeks", "price": "AUD 23,400", "url": "https://alg.edu.au/course/diploma-of-mental-health/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application"}
+
+      
+    ]
   }
+  
   
   
 ]
