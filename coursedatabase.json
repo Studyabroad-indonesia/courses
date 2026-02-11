@@ -118,6 +118,31 @@
 
       
     ]
+  },
+   {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/ikon-institute-of-australia-logo.png",
+    "name": "Ikon Institute Australia",
+    "programs": [
+      {"program": "Diploma of Arts Therapy", "type": "Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "1 Year", "price": "AUD 26,752", "url": "https://ikon.edu.au/course/diploma-of-arts-therapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Bachelor of Arts Therapy", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "3 Years", "price": "AUD 81,456", "url": "https://ikon.edu.au/course/bachelor-of-arts-therapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Diploma of Community Services", "type": "Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "1 Year", "price": "AUD 22,248", "url": "https://ikon.edu.au/course/diploma-of-community-services/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Bachelor of Community Services", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "3 Years", "price": "AUD 67,944", "url": "https://ikon.edu.au/course/bachelor-of-community-services/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Diploma of Counselling and Psychotherapy", "type": "Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "1 Year", "price": "AUD 27,352", "url": "https://ikon.edu.au/course/diploma-of-counselling-and-psychotherapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Bachelor of Counselling and Psychotherapy", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "3 Years", "price": "AUD 81,456", "url": "https://ikon.edu.au/course/bachelor-of-counselling-and-psychotherapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Graduate Certificate in Counselling", "type": "Graduate Certificate", "state": "ADE, BNE, MEL, SYD", "duration": "6 Months", "price": "AUD 15,380", "url": "https://ikon.edu.au/course/graduate-certificate-in-counselling/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Graduate Diploma of Counselling and Psychotherapy", "type": "Graduate Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "1 Year", "price": "AUD 30,760", "url": "https://ikon.edu.au/course/graduate-diploma-of-counselling-and-psychotherapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Master of Counselling and Psychotherapy", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 62,120", "url": "https://ikon.edu.au/course/master-of-counselling-and-psychotherapy/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Diploma of Early Childhood Education", "type": "Diploma", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 45,200", "url": "https://ikon.edu.au/course/diploma-of-early-childhood-education/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Bachelor of Early Childhood Education", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "4 Years", "price": "AUD 90,400", "url": "https://ikon.edu.au/course/bachelor-of-early-childhood-education/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Graduate Certificate in Education (Early Childhood)", "type": "Graduate Certificate", "state": "ONLINE", "duration": "6 Months", "price": "AUD 15,380", "url": "https://ikon.edu.au/course/graduate-certificate-in-education-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Graduate Diploma of Education (Early Childhood)", "type": "Graduate Diploma", "state": "ONLINE", "duration": "1 Year", "price": "AUD 30,760", "url": "https://ikon.edu.au/course/graduate-diploma-of-education-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Master of Education (Early Childhood)", "type": "Master", "state": "ONLINE", "duration": "1.4 Years", "price": "AUD 46,140", "url": "https://ikon.edu.au/course/master-of-education-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Master of Teaching (Early Childhood)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 51,808", "url": "https://ikon.edu.au/course/master-of-teaching-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Bachelor of Social Work", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "4 Years", "price": "AUD 101,200", "url": "https://ikon.edu.au/course/bachelor-of-social-work/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
+      {"program": "Master of Social Work (Qualifying)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 58,704", "url": "https://ikon.edu.au/course/master-of-social-work-qualifying/", "applicationForm": "https://ikon.edu.au/how-to-apply/"}
+
+      
+    ]
   }
   
   
