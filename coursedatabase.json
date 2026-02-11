@@ -147,8 +147,7 @@
       {"program": "Certificate III in Individual Support (Ageing & Disability) - CHC33021", "type": "Certificate III", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "32 Weeks", "price": "AUD 6,000", "url": "https://www.greenwichcollege.edu.au/health-and-care-courses-certificate-individual-support", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","June","August","October"]},
       {"program": "Certificate IV in Ageing Support - CHC43015", "type": "Certificate IV", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "52 Weeks", "price": "AUD 9,000", "url": "https://www.greenwichcollege.edu.au/health-and-care-courses-certificate-iv-ageing-support", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","June","August","October"]},
       {"program": "Diploma of Community Services (Case Management) - CHC52015", "type": "Diploma", "state": ["NSW","VIC","QLD","WA","SA"], "duration": "76 Weeks", "price": "AUD 15,300", "url": "https://www.greenwichcollege.edu.au/health-and-care-courses-diploma-community-services", "applicationForm": "https://www.greenwichcollege.edu.au/how_to_apply", "intake": ["January","March","May","June","August","October"]}
-
-    ]
+]
   },
   {
     "logo": "https://brightannica.co.id/wp-content/uploads/2025/05/ACBI.png",
