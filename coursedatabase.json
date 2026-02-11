@@ -143,6 +143,21 @@
 
       
     ]
+  },
+  {
+    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/eve-college.png",
+    "name": "Eve College Australia",
+    "programs": [
+      {"program": "Diploma of Leadership and Management - BSB50420", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Diploma of Business - BSB50120", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Certificate IV in Entrepreneurship and New Business - BSB40320", "type": "Certificate IV", "state": "NSW", "duration": "52 Weeks", "price": "AUD 10,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Diploma of Human Resource Management - BSB50320", "type": "Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Certificate IV in Human Resource Management - BSB40420", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 15,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Graduate Diploma of Management (Learning) - BSB80120", "type": "Graduate Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"},
+      {"program": "Advanced Diploma of Leadership and Management - BSB60420", "type": "Advanced Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au"}
+
+      
+    ]
   }
   
   
