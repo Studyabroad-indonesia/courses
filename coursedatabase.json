@@ -363,7 +363,8 @@
       {"program": "Responsible Conduct of Gambling (RCG) Training Workshop - Face to Face", "type": "Short Course", "state": "NSW", "duration": "1 Day", "price": "AUD 149", "url": "https://evolution.edu.au/courses/responsible-conduct-of-gambling-rcg-course/", "applicationForm": "https://form.jotform.com"},
       {"program": "Food Safety Supervisor Course NSW - Online", "type": "Short Course", "state": "NSW", "duration": "120 Days", "price": "AUD 170", "url": "https://evolution.edu.au/courses/food-safety-supervisor-course-nsw-online/", "applicationForm": "https://form.jotform.com"},
       {"program": "Smart and Skilled – Apprenticeships and Traineeships (program information)", "type": "Government Funded / Program", "state": "NSW", "duration": "", "price": "", "url": "https://evolution.edu.au/courses/smart-and-skilled/", "applicationForm": "https://form.jotform.com"}
-  },
+    ]
+    },
   {
     "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/ELC.png",
     "name": "ELC - English Language Company Australia",
