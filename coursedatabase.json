@@ -378,41 +378,6 @@
     ]
   },
   {
-    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/Holmes-Institute.png",
-    "name": "Holmes Institute",
-    "programs": [
-      {"program": "Bachelor of Business (BBus)", "type": "Bachelor", "state": "VIC, NSW, QLD", "duration": "156 Weeks", "price": "AUD 58,800", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/bachelor-of-business", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Bachelor of Professional Accounting (BPA)", "type": "Bachelor", "state": "VIC, NSW, QLD", "duration": "156 Weeks", "price": "AUD 58,800", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/bachelor-of-professional-accounting", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Bachelor of Fashion Business (Holmes Institute Fashion)", "type": "Bachelor", "state": "VIC, NSW", "duration": "156 Weeks", "price": "AUD 64,200", "url": "https://tmice.edu.au/collections/fashion-business", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Bachelor of Information Systems (BIS)", "type": "Bachelor", "state": "VIC, NSW", "duration": "156 Weeks", "price": "AUD 58,800", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/bachelor-of-information-systems", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Graduate Diploma in Business (GDB)", "type": "Graduate Diploma", "state": "VIC, NSW, QLD", "duration": "52 Weeks", "price": "AUD 20,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/graduate-diploma-in-business", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Master of Business Administration (MBA)", "type": "Master", "state": "VIC, NSW, QLD", "duration": "78 Weeks", "price": "AUD 30,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/master-of-business-administration", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Master of Business Administration (Professional)", "type": "Master", "state": "VIC, NSW, QLD", "duration": "104 Weeks", "price": "AUD 40,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/master-of-business-administration-%28professional%29", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Master of Professional Accounting (MPA)", "type": "Master", "state": "VIC, NSW, QLD", "duration": "78 Weeks", "price": "AUD 30,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/master-of-professional-accounting", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Master of Information Systems (MIS)", "type": "Master", "state": "VIC, NSW, QLD", "duration": "104 Weeks", "price": "AUD 50,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/master-of-information-systems", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Master of Teaching (Early Childhood)", "type": "Master", "state": "VIC, NSW, QLD", "duration": "104 Weeks", "price": "AUD 54,000", "url": "https://www.holmes.edu.au/pages/schools-and-faculties/higher-education/courses/master-of-teaching-%28early-childhood%29-and-nested-graduate-diploma-of-early-childhood", "applicationForm": "https://jupiter.holmeseducation.group"},
-      {"program": "Bachelor of Aviation (Flight / Management)", "type": "Bachelor", "state": "", "duration": "", "price": "", "url": "https://www.aviation.holmes.edu.au", "applicationForm": "https://jupiter.holmeseducation.group"}
-    ]
-  },
-  {
-    "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/kent.png",
-    "name": "KENT Institute Australia",
-    "programs": [
-      {"program": "Master of Information and Communication Technology", "type": "Master", "state": "NSW,VIC", "duration": "2 Years", "price": "AUD 40,000", "url": "https://kent.edu.au/master-of-information-and-communication-technology/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Bachelor of Accounting", "type": "Bachelor", "state": "NSW,VIC", "duration": "3 Years", "price": "AUD 49,440", "url": "https://kent.edu.au/course-bachelor-of-accounting/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Bachelor of Business", "type": "Bachelor", "state": "NSW,VIC", "duration": "3 Years", "price": "AUD 49,440", "url": "https://kent.edu.au/course-bachelor-of-business/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Bachelor of Information Technology", "type": "Bachelor", "state": "NSW,VIC", "duration": "3 Years", "price": "AUD 52,800", "url": "https://kent.edu.au/bachelor-of-information-technology/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Diploma of Leadership and Management", "type": "Diploma", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 5,768", "url": "https://kent.edu.au/business-courses/diploma-of-leadership-and-management/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Diploma of Project Management", "type": "Diploma", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 5,768", "url": "https://kent.edu.au/business-courses/diploma-of-project-management/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Advanced Diploma of Leadership and Management", "type": "Advanced Diploma", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 5,768", "url": "https://kent.edu.au/business-courses/advanced-diploma-of-leadership-and-management/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Advanced Diploma of Program Management", "type": "Advanced Diploma", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 5,768", "url": "https://kent.edu.au/business-courses/advanced-diploma-of-program-management/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Certificate IV in Information Technology", "type": "Certificate IV", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 6,592", "url": "https://kent.edu.au/information-technology-courses/certificate-iv-in-information-technology/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Diploma of Information Technology", "type": "Diploma", "state": "NSW,VIC", "duration": "62 Weeks", "price": "AUD 8,240", "url": "https://kent.edu.au/information-technology-courses/diploma-of-information-technology/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Advanced Diploma of Information Technology", "type": "Advanced Diploma", "state": "NSW,VIC", "duration": "49 Weeks", "price": "AUD 6,592", "url": "https://kent.edu.au/information-technology-courses/advanced-diploma-of-information-technology/", "applicationForm": "https://kent.edu.au/apply/"},
-      {"program": "Certificate IV in Ageing Support", "type": "Certificate IV", "state": "NSW,VIC", "duration": "75 Weeks", "price": "AUD 9,888", "url": "https://kent.edu.au/certificate-iv-in-ageing-support/", "applicationForm": "https://kent.edu.au/apply/"}
-    ]
-  },
-  {
     "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/Lead-college-australia.png",
     "name": "LEAD College",
     "programs": [
