@@ -15,7 +15,6 @@
       {"program": "Graduate Certificate of Information Technology", "type": "Graduate Certificate (AQF Level 8)", "state": "Sydney, Melbourne, Brisbane, Perth", "duration": "Full time up to 0.75 years (up to 1.5 years part time for domestic students)", "price": "Domestic AUD 10,750 / International AUD 13,500", "url": "https://aibi.edu.au/graduate-certificate-of-information-technology/", "applicationForm": "https://aibi.meshedhe.com.au", "intake": ["February", "May", "September"]},
       {"program": "Graduate Diploma of Information Technology", "type": "Graduate Diploma", "state": "Sydney, Melbourne, Brisbane, Perth", "duration": "Full time up to 1 year (up to 2 years part time for domestic students)", "price": "Domestic AUD 21,500 / International AUD 27,000", "url": "https://aibi.edu.au/graduate-diploma-of-information-technology/", "applicationForm": "https://aibi.meshedhe.com.au", "intake": ["February", "May", "September"]},
       {"program": "Master of Information Technology (Cyber Security)", "type": "Master (AQF Level 8)", "state": "Sydney, Melbourne, Brisbane, Perth", "duration": "2 years full time (up to 4 years part time for domestic students)", "price": "Domestic AUD 43,000 / International AUD 54,000", "url": "https://aibi.edu.au/master-of-information-technology-cyber-security/", "applicationForm": "https://aibi.meshedhe.com.au", "intake": ["February", "May", "September"]}
-    
     ]
   },
   {
@@ -87,8 +86,6 @@
       {"program": "Diploma of Community Services", "type": "Diploma", "state": "BNE, MEL, SYD", "duration": "104 Weeks", "price": "AUD 23,400", "url": "https://alg.edu.au/course/diploma-of-community-services/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application", "intake": ["January", "April", "July", "October"]},
       {"program": "Diploma of Counselling", "type": "Diploma", "state": "MEL, SYD", "duration": "78 Weeks", "price": "AUD 17,550", "url": "https://alg.edu.au/course/diploma-of-counselling/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application", "intake": ["January", "April", "July", "October"]},
       {"program": "Diploma of Mental Health", "type": "Diploma", "state": "MEL, SYD", "duration": "104 Weeks", "price": "AUD 23,400", "url": "https://alg.edu.au/course/diploma-of-mental-health/", "applicationForm": "https://ikon-aus.formstack.com/forms/alg_application", "intake": ["January", "April", "July", "October"]}
-
-      
     ]
   },
   {
@@ -103,8 +100,6 @@
       {"program":"Diploma of Sport","type":"Diploma","state":"SYD, PER","duration":"60 Weeks","price":"AUD 15,000","url":"https://www.csf.edu.au/copy-of-sis40321-certificate-iv-in-sp","applicationForm":"https://csf.rtomanager.com.au/Publics/PublicsPages/StudentApply/pp_Application_Step0.aspx","intake":["January","February","April","May","July","August","September","November"]},
       {"program":"Diploma of Holistic Classical Yoga Practice and Teaching","type":"Diploma","state":"SYD, PER","duration":"98 Weeks","price":"AUD 20,000","url":"https://www.csf.edu.au/10975natyoga","applicationForm":"https://csf.rtomanager.com.au/Publics/PublicsPages/StudentApply/pp_Application_Step0.aspx","intake":["January","February","April","May","July","August","September","November"]},
       {"program":"Advanced Diploma of Holistic Classical Yoga Teaching and Therapy","type":"Advanced Diploma","state":"SYD, PER","duration":"48 Weeks","price":"AUD 12,000","url":"https://www.csf.edu.au/yoga","applicationForm":"https://csf.rtomanager.com.au/Publics/PublicsPages/StudentApply/pp_Application_Step0.aspx","intake":["January","February","April","May","July","August","September","November"]}
-    
-    
     ]
   },
   {
@@ -118,8 +113,6 @@
       {"program": "Certificate IV in Human Resource Management - BSB40420", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 15,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
       {"program": "Graduate Diploma of Management (Learning) - BSB80120", "type": "Graduate Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","March","April","June","July","September","October","December"]},
       {"program": "Advanced Diploma of Leadership and Management - BSB60420", "type": "Advanced Diploma", "state": "NSW", "duration": "104 Weeks", "price": "AUD 20,000 (est.)", "url": "https://www.eve.edu.au/#courses", "applicationForm": "https://www.evecollege.nsw.edu.au", "intake": ["January","February","March","June","July","August","September","October","November"]}
-
-      
     ]
   },
    {
@@ -156,8 +149,6 @@
       {"program":"Bachelor of Game Design","type":"Bachelor (AQF Level 7)","state":"Sydney, Melbourne","duration":"3 years full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/bachelor-of-game-design/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
       {"program":"Diploma of Game Design","type":"Diploma (VET)","state":"Sydney, Melbourne","duration":"1 year full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/diploma-of-game-design-australia/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]},
       {"program":"Diploma of 3D Animation","type":"Diploma (VET)","state":"Sydney, Melbourne","duration":"1 year full time (3 trimesters per year)","price":"Not listed on site — contact provider","url":"https://greenwichhighered.edu.au/course/diploma-of-3d-animation/","applicationForm":"https://greenwichhighered.edu.au/apply-today/","intake":["February","May","September"]}
-
-      
     ]
   },
   {
@@ -184,8 +175,6 @@
       {"program": "Advanced Diploma of Information Technology", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-management/", "applicationForm": "https://drive.google.com/file/d/1p5FdEEd4RQkMbqkq_9m5RXxAMyVnqA2M/view?usp=sharing"},
       {"program": "Advanced Diploma of Information Technology (Cyber Security)", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-cyber-security/", "applicationForm": "https://drive.google.com/file/d/1p5FdEEd4RQkMbqkq_9m5RXxAMyVnqA2M/view?usp=sharing"},
       {"program": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)", "type": "Advanced Diploma", "state": "nsw", "duration": "104 Weeks", "price": "AUD 1,800 / Term", "url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-telecommunications-network-engineering/", "applicationForm": "https://drive.google.com/file/d/1p5FdEEd4RQkMbqkq_9m5RXxAMyVnqA2M/view?usp=sharing"}
-
-      
     ]
   },
   {
@@ -216,7 +205,6 @@
       {"program": "VCE Year 11 & 12", "type": "Senior Secondary", "state": "vic", "duration": "2 Years", "price": "AUD 19,000 / Year; AUD 900 Consolidated Fee; AUD 200 Enrolment Fee", "url": "https://www.acknowledgeeducation.edu.au/courses/vce-year-11-12"},
       {"program": "English for Academic Purposes", "type": "English", "state": "vic", "duration": "1–52 Weeks", "price": "AUD 340 / Week", "url": "https://www.acknowledgeeducation.edu.au/courses/english-for-academic-purposes"},
       {"program": "General English", "type": "English", "state": "vic", "duration": "1–52 Weeks", "price": "AUD 300 / Week", "url": "https://www.acknowledgeeducation.edu.au/courses/general-english"}
-      
     ]
   },
   {
@@ -229,8 +217,6 @@
       {"program": "SIT40721 Certificate IV in Patisserie", "type": "Certificate IV", "state": "NSW", "duration": "78 Weeks", "price": "AUD 17,700 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
       {"program": "SIT50422 Diploma of Hospitality Management", "type": "Diploma", "state": "NSW", "duration": "80 Weeks", "price": "AUD 14,000 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"},
       {"program": "SIT60322 Advanced Diploma of Hospitality Management", "type": "Advanced Diploma", "state": "NSW", "duration": "90 Weeks", "price": "AUD 15,750 (est.)", "url": "https://www.leculinaire.edu.au/courses", "applicationForm": "https://www.leculinaire.edu.au/apply-now"}
-
-      
     ]
   },
    {
@@ -254,8 +240,6 @@
       {"program": "Master of Teaching (Early Childhood)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 51,808", "url": "https://ikon.edu.au/course/master-of-teaching-early-childhood/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
       {"program": "Bachelor of Social Work", "type": "Bachelor", "state": "ADE, BNE, MEL, SYD", "duration": "4 Years", "price": "AUD 101,200", "url": "https://ikon.edu.au/course/bachelor-of-social-work/", "applicationForm": "https://ikon.edu.au/how-to-apply/"},
       {"program": "Master of Social Work (Qualifying)", "type": "Master", "state": "ADE, BNE, MEL, SYD", "duration": "2 Years", "price": "AUD 58,704", "url": "https://ikon.edu.au/course/master-of-social-work-qualifying/", "applicationForm": "https://ikon.edu.au/how-to-apply/"}
-
-      
     ]
   },
   {
@@ -283,8 +267,6 @@
       {"program": "Certificate IV In Information Technology", "type": "Certificate IV", "state": "NSW/VIC", "duration": "52 Weeks", "price": "AUD 11,000", "url": "https://npa.edu.au/courses/information-technology/certificate-iv-in-information-technology/", "applicationForm": "https://applications.npa.edu.au"},
       {"program": "Diploma Of Information Technology (Telecommunications Network Engineering)", "type": "Diploma", "state": "NSW/VIC", "duration": "52 Weeks", "price": "AUD 12,000", "url": "https://npa.edu.au/courses/information-technology/diploma-of-information-technology/", "applicationForm": "https://applications.npa.edu.au"},
       {"program": "Advanced Diploma Of Information Technology (Telecommunications Network Engineering)", "type": "Advanced Diploma", "state": "NSW/VIC", "duration": "104 Weeks", "price": "AUD 23,000", "url": "https://npa.edu.au/courses/information-technology/advanced-diploma-of-information-technology/", "applicationForm": "https://applications.npa.edu.au"}
-
-      
     ]
   },
   {
@@ -364,7 +346,7 @@
       {"program": "Food Safety Supervisor Course NSW - Online", "type": "Short Course", "state": "NSW", "duration": "120 Days", "price": "AUD 170", "url": "https://evolution.edu.au/courses/food-safety-supervisor-course-nsw-online/", "applicationForm": "https://form.jotform.com"},
       {"program": "Smart and Skilled – Apprenticeships and Traineeships (program information)", "type": "Government Funded / Program", "state": "NSW", "duration": "", "price": "", "url": "https://evolution.edu.au/courses/smart-and-skilled/", "applicationForm": "https://form.jotform.com"}
     ]
-    },
+  },
   {
     "logo": "https://brightannica.co.id/wp-content/uploads/2026/02/ELC.png",
     "name": "ELC - English Language Company Australia",
@@ -476,5 +458,4 @@
       {"program": "Master of Professional Accounting (Advanced)", "type": "Master", "state": "NSW", "duration": "2 years full-time (4 years part-time; 1 year 4 months fast-tracked)", "price": "AUD 54,000 plus ancillary fees", "url": "https://monaro.edu.au/accounting-course/master-of-professional-accounting-advanced-mpaa/", "applicationForm": "https://www.monaro.edu.au/apply-now/"}
     ]
   }
-
 ]
