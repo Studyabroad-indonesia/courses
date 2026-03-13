@@ -566,5 +566,6 @@
       {"program": "Advanced Diploma of Marketing and Communication", "type": "Advanced Diploma", "state": ["QLD"], "duration": "52 Weeks", "price": "AUD 7,000", "url": "https://www.imagineeducation.com.au/adv-dip-of-mark-comm", "applicationForm": "https://www.imagineeducation.com.au/_files/ugd/66f0a3_7fce5c7970354b14ae5adc3fb0b6295e.pdf", "intake": ["January","April","July","October","November"]},
       {"program": "Diploma of Leadership and Management", "type": "Diploma", "state": ["QLD"], "duration": "52 Weeks", "price": "AUD 7,000", "url": "https://www.imagineeducation.com.au/diploma-of-leadership-management", "applicationForm": "https://www.imagineeducation.com.au/_files/ugd/66f0a3_7fce5c7970354b14ae5adc3fb0b6295e.pdf", "intake": ["January","April","July","October","November"]},
       {"program": "Graduate Diploma of Management (Learning)", "type": "Graduate Diploma", "state": ["QLD"], "duration": "104 Weeks", "price": "AUD 22,000", "url": "https://www.imagineeducation.com.au/graduate-diploma-of-management", "applicationForm": "https://www.imagineeducation.com.au/_files/ugd/66f0a3_7fce5c7970354b14ae5adc3fb0b6295e.pdf", "intake": ["January","April","July","October"]}
-  }
+    ]
+    }
 ]
